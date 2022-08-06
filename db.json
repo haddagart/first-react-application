@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "First task to operate",
+      "day": "Today",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Second task to operate",
+      "day": "Tomorrow",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Thirst task to operate",
+      "day": "Tomorrow at 9:00 pm.",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
